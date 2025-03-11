@@ -26,4 +26,4 @@ O esquema conceitual define a estrutura de um banco de dados para uma plataforma
 Sugestões e melhorias são bem-vindas! Fique à vontade para abrir uma issue ou enviar um pull request.
 
 ## 📧 Contato
-Caso tenha alguma dúvida, entre em contato comigo pelo [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sjuniormidia/)
+Caso tenha alguma dúvida, entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/sjuniormidia/)
